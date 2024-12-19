@@ -1,6 +1,6 @@
 # For Ms. Sarmoooh 🐮
 
-My public first hand embarrassment @ [Ms.Sarmoooh](https://www.himanshuc3.github.io/Ms.Sarmooh/).
+My public first hand embarrassment @ [Ms.Sarmoooh](https://himanshuc3.github.io/MsSarmooh/).
 
 Here's a template for impressing your better half and get public with her in style or just win her back. Extend this to create infinite cringe content on the web, because it was already the end after tiktok launched. 
 
