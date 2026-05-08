@@ -111,7 +111,9 @@ export default {
           <div class="staggers">
             <div>want to go for <span class="yellow">slow walks with me 🧑‍🤝‍🧑</span></div>
             <div>want more <span class="yellow">chai-sutta chronicles ☕</span></div>
+            <div>overload my inbox <span class="yellow">with brainrot reels 🎞️</span></div>
             <div>give me a <span class="yellow">second chance 🤞</span></div>
+            
           </div>
         </div>
       </h1>
