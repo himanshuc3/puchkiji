@@ -110,9 +110,8 @@ export default {
         <div class="parent-staggers">
           <div class="staggers">
             <div>want to go for <span class="yellow">slow walks with me 🧑‍🤝‍🧑</span></div>
-            <div>want more <span class="yellow">11th Avenue dates ☕</span></div>
+            <div>want more <span class="yellow">chai-sutta chronicles ☕</span></div>
             <div>give me a <span class="yellow">second chance 🤞</span></div>
-            <div>be my <span class="poster-color">MADAM JI 👧</span></div>
           </div>
         </div>
       </h1>
@@ -139,7 +138,7 @@ export default {
     <div v-else class="final">
       <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt="" />
       <h2>Ok yay, I want us time 💑</h2>
-      <h2 class="greyed-sub">I miss your Kuch bhi(s), As if(s) and "Good mornings"!</h2>
+      <h2 class="greyed-sub">I miss you "Good mornings!", college rants and religious affirmations.</h2>
     </div>
   </div>
 </template>
